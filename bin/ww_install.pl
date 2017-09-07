@@ -182,7 +182,7 @@ my @modulesList = qw(
 	Locale::Maketext::Lexicon
 	Locale::Maketext::Simple
         LWP::Protocol::https
-	Mail::Sender
+	Email::Sender
 	MIME::Base64
 	Net::IP
 	Net::LDAPS
